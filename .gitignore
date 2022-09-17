@@ -35,3 +35,5 @@ scss_loaders.scss
 # EDITOR ENVIRONMENT
 .vscode
 .idea
+
+client
